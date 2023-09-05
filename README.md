@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KnoxSoto
-- 👀 I’m interested in becoming a Data Analyst
-- 🌱 I’m currently learning Data Science/ Python/SQL/Tableau
+- 👀 I’m interested in becoming a JR Developer
+- 🌱 I’m currently learning Python
 - 📫 How to reach me https://www.linkedin.com/in/knox-nethan-aviles/
 
 <!---
