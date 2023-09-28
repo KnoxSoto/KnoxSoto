@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @KnoxSoto
-- 👀 I’m interested in becoming a JR Developer
-- 🌱 I’m currently learning Python
-- 📫 How to reach me https://www.linkedin.com/in/knox-nethan-aviles/
-
-<!---
-KnoxSoto/KnoxSoto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Salesforce Administrator, Python Automation enthusiast, Data-Driven strategist, and a pioneering innovator in harnessing ChatGPT's capabilities. 🌟 #SalesforceAdmin #PythonAutomation #DataScience #Innovation 🚀
+Important Links -
+Trailhead - https://www.salesforce.com/trailblazer/ksoto4
