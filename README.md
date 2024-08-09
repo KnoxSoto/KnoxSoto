@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Knox-Nethan</h1>
-<h3 align="center"> Senior Salesforce Administrator @ Busey Bank 👩🏿‍💻</h3>
+<h3 align="center"> Senior Salesforce/nCino Administrator @ Busey Bank 👩🏿‍💻</h3>
 
 <div align="center">
 
