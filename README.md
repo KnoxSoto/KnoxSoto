@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Knox-Nethan</h1>
-<h3 align="center"> Senior Salesforce/nCino Administrator @ Busey Bank 👩🏿‍💻</h3>
+<h3 align="center"> I'm an Developer & consulting 🧑🏽‍💻 </h3>
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 </div>
 
-🔭 I’m currently enrolled in [Cloud Code Academy](https://cloudcodeacademy.com)
+🔭 Alumni @ [Cloud Code Academy](https://cloudcodeacademy.com)
 
 📫 How to reach me **Knoxnethan9500@gmail.com**
 
