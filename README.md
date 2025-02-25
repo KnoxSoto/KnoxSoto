@@ -12,7 +12,7 @@
 
 📫 How to reach me **Knoxnethan9500@gmail.com**
 
-🏅 [5x Certified Salesforce](https://www.salesforce.com/trailblazer/ksoto4)
+🏅 [6x Certified Salesforce](https://www.salesforce.com/trailblazer/ksoto4)
 
 # ⚙ Salesforce Technologies
 <table width="100%" style="border:0px;">
